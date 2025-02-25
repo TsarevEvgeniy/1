@@ -152,6 +152,7 @@ if uploaded_file is not None:
         }
         
         #Add comment
+        #Add comment 3
 
         def categor_klient(rfm):
             for klient, items_klient in list_klient.items():
