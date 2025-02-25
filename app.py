@@ -151,7 +151,7 @@ if uploaded_file is not None:
             'Постоянные клиенты': ['311', '312', '313', '321', '322', '323', '331', '332', '333']
         }
         
-        #Add comment
+        #Add comment 2
 
         def categor_klient(rfm):
             for klient, items_klient in list_klient.items():
