@@ -152,6 +152,7 @@ if uploaded_file is not None:
         }
         
         #Add comment
+        #Add comment 2
         #Add comment 3
 
         def categor_klient(rfm):
