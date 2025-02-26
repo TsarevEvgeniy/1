@@ -3,6 +3,3 @@ pandas
 seaborn
 matplotlib
 datetime
-io
-base64
-calendar
