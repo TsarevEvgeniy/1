@@ -1,7 +1,7 @@
 streamlit
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 datetime
 io
 base64
